@@ -1,2 +1,2 @@
-# ablankpage
+ablankpage
 Just a blankpage
