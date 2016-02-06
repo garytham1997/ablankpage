@@ -1,2 +1,0 @@
-ablankpage
-Just a blankpage
